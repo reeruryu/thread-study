@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\rhj\Thread\bin\Debug\Thread.exe.config
+C:\Users\User\Desktop\rhj\Thread\bin\Debug\Thread.exe
+C:\Users\User\Desktop\rhj\Thread\bin\Debug\Thread.pdb
+C:\Users\User\Desktop\rhj\Thread\obj\Debug\Thread.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\rhj\Thread\obj\Debug\Thread.Form1.resources
+C:\Users\User\Desktop\rhj\Thread\obj\Debug\Thread.Play.resources
+C:\Users\User\Desktop\rhj\Thread\obj\Debug\Thread.Properties.Resources.resources
+C:\Users\User\Desktop\rhj\Thread\obj\Debug\Thread.csproj.GenerateResource.cache
+C:\Users\User\Desktop\rhj\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\rhj\Thread\obj\Debug\Thread.exe
+C:\Users\User\Desktop\rhj\Thread\obj\Debug\Thread.pdb
